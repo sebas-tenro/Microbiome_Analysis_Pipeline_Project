@@ -43,8 +43,6 @@ Tenorio Romero, S.*, Sobczak, E.*, Drotsky, J., Huang, E., Wiebe, E. (2025).
 Higher Clostridia Expression Is Associated with Integrase Strand Transfer Inhibitor Treatment in People Living with HIV.
 Undergraduate Journal of Experimental Microbiology and Immunology (UJEMI+), 11, 1–13.
 (*co-first authors)
-PDF of the publication is included here:
-[TenorioRomero_et_al_2025.pdf](https://ojs.library.ubc.ca/index.php/UJEMI/article/view/200793)
 
 ## 🧭 How to Run the Analysis
 1. Install required tools and R packages
